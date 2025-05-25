@@ -16,8 +16,6 @@ Installation
 ============
 ```sh
 pip install pymem
-# with speedups
-pip install pymem[speed]
 ```
 
 Documentation
